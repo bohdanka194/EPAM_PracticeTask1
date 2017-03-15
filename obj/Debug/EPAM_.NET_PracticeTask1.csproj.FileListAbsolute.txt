@@ -1,0 +1,7 @@
+C:\Visual Studio 2012\Projects\EPAM_.NET_PracticeTask1\EPAM_.NET_PracticeTask1\bin\Debug\EPAM_.NET_PracticeTask1.exe.config
+C:\Users\Bohdana Arterchuk\Documents\Visual Studio 2015\Projects\EPAM_.NET_PracticeTask1\EPAM_.NET_PracticeTask1\bin\Debug\EPAM_.NET_PracticeTask1.exe.config
+C:\Users\Bohdana Arterchuk\Documents\Visual Studio 2015\Projects\EPAM_.NET_PracticeTask1\EPAM_.NET_PracticeTask1\bin\Debug\EPAM_.NET_PracticeTask1.exe
+C:\Users\Bohdana Arterchuk\Documents\Visual Studio 2015\Projects\EPAM_.NET_PracticeTask1\EPAM_.NET_PracticeTask1\bin\Debug\EPAM_.NET_PracticeTask1.pdb
+C:\Users\Bohdana Arterchuk\Documents\Visual Studio 2015\Projects\EPAM_.NET_PracticeTask1\EPAM_.NET_PracticeTask1\obj\Debug\EPAM_.NET_PracticeTask1.csprojResolveAssemblyReference.cache
+C:\Users\Bohdana Arterchuk\Documents\Visual Studio 2015\Projects\EPAM_.NET_PracticeTask1\EPAM_.NET_PracticeTask1\obj\Debug\EPAM_.NET_PracticeTask1.exe
+C:\Users\Bohdana Arterchuk\Documents\Visual Studio 2015\Projects\EPAM_.NET_PracticeTask1\EPAM_.NET_PracticeTask1\obj\Debug\EPAM_.NET_PracticeTask1.pdb
